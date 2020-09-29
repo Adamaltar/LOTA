@@ -1,0 +1,10 @@
+com\cc\LOTA\model\Drone.class
+com\cc\LOTA\model\Worker.class
+com\cc\LOTA\model\Ant.class
+com\cc\LOTA\model\Mater.class
+com\cc\LOTA\model\Soldier$1.class
+com\cc\LOTA\AntColony.class
+com\cc\LOTA\model\Soldier.class
+com\cc\LOTA\model\Queen.class
+com\cc\LOTA\utils\Direction.class
+com\cc\LOTA\utils\Position.class
